@@ -68,7 +68,7 @@ app
       return res.status(404)
         .send({
           ip: ips[0],
-          error: 'IP address was not found in database')
+          error: 'IP address was not found in database'
         })
     }
 
