@@ -1,6 +1,6 @@
 {
   "db": {
-    "path": "./db/GeoLite2-City.mmdb"
+    "city": "./db/GeoLite2-City.mmdb"
   },
   "port": 8080
 }
